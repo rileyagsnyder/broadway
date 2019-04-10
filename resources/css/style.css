@@ -1,19 +1,17 @@
 body {
-  background: url(../images/background.png);
   text-align: center;
   font-family: Helvetica;
 }
 
 .fs-18 {
   font-size: 18px;
-}
-
-.fs-18, h1 {
   color: white;
+  background: url(../images/background.png);
 }
 
-.bc-white {
-  background-color: white;
+h1 {
+  color: white;
+  background: url(../images/background.png);
 }
 
 h2 {
@@ -28,6 +26,7 @@ h3 {
 
 .c-white {
   color: white;
+  background: url(../images/background.png);
 }
 
 p {
