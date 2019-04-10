@@ -10,8 +10,8 @@ body {
 }
 
 h1 {
-  color: white;
-  background: url(../images/background.png);
+  font-size: 70px;
+  
 }
 
 h2 {
