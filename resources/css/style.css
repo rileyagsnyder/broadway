@@ -1,0 +1,13 @@
+body {
+  background: url(../images/background.png);
+  text-align: center;
+  font-family: Helvetica;
+}
+.footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.cr {
+  font-size: 11px;
+}
