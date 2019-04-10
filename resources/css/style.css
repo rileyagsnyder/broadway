@@ -3,11 +3,31 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+
+.bc-white {
+  background-color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
 .footer {
   color: white;
   background-color: dimgray;
   text-align: left;
 }
+
 .cr {
   font-size: 11px;
 }
