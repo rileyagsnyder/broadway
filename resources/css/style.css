@@ -4,6 +4,14 @@ body {
   font-family: Helvetica;
 }
 
+.fs-18 {
+  font-size: 18px;
+}
+
+.fs-18, h1 {
+  color: white;
+}
+
 .bc-white {
   background-color: white;
 }
@@ -16,6 +24,10 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
+
+.c-white {
+  color: white;
 }
 
 p {
